@@ -1,3 +1,3 @@
-# Desafio: Criando um Sistema Bancário com Python (Versão 1) - Bootcamp-DIO
+# Desafio: Criando um Sistema Bancário com Python - Bootcamp-DIO
 
-## Este repositório contém o primeiro desafio do bootcamp Python AI Backend Developer da DIO, nele foi feito um sistema bancário simples onde foram usados loops e estruturas condicionais em Python.
+## Este repositório contém todas as versões dos desafios do bootcamp Python AI Backend Developer da DIO, nele foi feito um sistema bancário simples com diferentes versões. Desde a versão simples usando apenas estruturas condicionais, até a versão usando POO.
